@@ -1,0 +1,6 @@
+{
+  "name": "NextGen AI Academy",
+  "description": "Premium AI education platform providing hands-on courses, project-based learning paths, and practical digital skills for students and professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
